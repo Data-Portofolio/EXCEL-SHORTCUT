@@ -9,6 +9,8 @@ Kumpulan **shortcut Microsoft Excel (Windows)** untuk mempercepat pekerjaan hari
 
 ---
 
+
+
 ## 📌 Daftar Isi
 - [Navigasi & Seleksi](#navigasi--seleksi)
 - [Edit](#edit)
@@ -18,6 +20,25 @@ Kumpulan **shortcut Microsoft Excel (Windows)** untuk mempercepat pekerjaan hari
 - [Manajemen Workbook & Sheet](#manajemen-workbook--sheet)
 - [Developer & VBA](#developer--vba)
 - [Tips Tambahan](#tips-tambahan)
+
+
+---
+
+## ⌨️ CTRL + F1 sampai F12
+| Shortcut       | Fungsi                                |
+| -------------- | ------------------------------------- |
+| `Ctrl` + `F1`  | Tampilkan/sembunyikan Ribbon          |
+| `Ctrl` + `F2`  | Print Preview                         |
+| `Ctrl` + `F3`  | Buat atau edit **Name Range**         |
+| `Ctrl` + `F4`  | Tutup workbook aktif                  |
+| `Ctrl` + `F5`  | Restore ukuran jendela workbook       |
+| `Ctrl` + `F6`  | Pindah antar workbook terbuka         |
+| `Ctrl` + `F7`  | Pindah posisi jendela workbook (Move) |
+| `Ctrl` + `F8`  | Ubah ukuran jendela workbook (Resize) |
+| `Ctrl` + `F9`  | Minimize workbook                     |
+| `Ctrl` + `F10` | Maximize/Restore workbook             |
+| `Ctrl` + `F11` | Sisipkan lembar Macro Sheet baru      |
+| `Ctrl` + `F12` | Buka file (**Open**)                  |
 
 ---
 
