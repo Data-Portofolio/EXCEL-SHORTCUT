@@ -133,6 +133,31 @@ Kumpulan **shortcut Microsoft Excel (Windows)** untuk mempercepat pekerjaan hari
 
 ---
 
+Oke, aku tambahkan **Go To Special** ke daftar README Git Shortcut Excel yang kemarin kita buat, biar nyambung sama formatnya.
+
+---
+
+### 🔍 Pencarian & Navigasi
+
+| Shortcut                 | Fungsi                                                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Ctrl + F**             | Find (mencari teks/angka)                                                                                    |
+| **Ctrl + H**             | Replace (mengganti teks/angka)                                                                               |
+| **Ctrl + G** atau **F5** | Go To (lompat ke sel tertentu)                                                                               |
+| **Ctrl + G → Special…**  | **Go To Special** – memilih sel berdasarkan kriteria (contoh: sel kosong, formula, visible cells only, dll.) |
+
+**Opsi di Go To Special:**
+
+* **Blanks** → Pilih semua sel kosong.
+* **Constants** → Pilih nilai tetap (bukan hasil rumus).
+* **Formulas** → Pilih semua sel berisi rumus.
+* **Visible Cells Only** → Pilih hanya sel yang terlihat.
+* **Objects** → Pilih semua objek seperti gambar/shape.
+* **Conditional Formats** → Pilih sel dengan conditional formatting.
+* **Data Validation** → Pilih sel dengan aturan validasi data.
+
+---
+
 ## 💡 Tips Tambahan
 - Gunakan `Ctrl` + `*` untuk pilih seluruh blok data.
 - Tahan `Ctrl` saat pilih kolom/baris non-berdekatan.
